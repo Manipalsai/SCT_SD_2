@@ -1,4 +1,4 @@
-#  SCT_SD_Task2
+#  SCT_SD_Task2 – Number Guessing Game
 
 This repository contains **Task 2** for my **Software Development Internship** at **SkillCraft Technology**.
 
